@@ -1,0 +1,34 @@
+
+{
+  "getUserService_1": {
+     "result": "000",
+     "message": "",
+     "apiName": "getUserService_1",
+     "isActive": false,
+     "activationUrl": "https://bnpl.taiwanmobile.com/web/portal/member/quotainfo"
+  },
+  "getUserService_2": {
+     "result": "000",
+     "message": "",
+     "apiName": "getUserService_2",
+     "isActive": true,
+     "status": true,
+     "usedCredit": 999,
+     "creditLimit": 50000,
+     "accountDetailUrl": "https://bnpl.taiwanmobile.com/web/portal/member/quotainfo",
+     "shopUrl": "https://shop.oppay.tw/main",
+     "billingUrl": "https://bnpl.taiwanmobile.com/web/portal/member/bill"
+  },
+  "getUserService_3": {
+     "result": "000",
+     "message": "",
+     "apiName": "getUserService_3",
+     "isActive": true,
+     "status": false,
+     "usedCredit": 999,
+     "creditLimit": 50000,
+     "accountDetailUrl": "https://bnpl.taiwanmobile.com/web/portal/member/quotainfo",
+     "shopUrl": "https://shop.oppay.tw/main",
+     "billingUrl": "https://bnpl.taiwanmobile.com/web/portal/member/bill"
+  }
+}
